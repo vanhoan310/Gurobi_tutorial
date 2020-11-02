@@ -1,0 +1,6 @@
+# jupyter-files
+.ipynb_checkpoints
+__pycache__
+
+# igraph github repository
+python-igraph/
